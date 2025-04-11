@@ -1,0 +1,8 @@
+wlan_ai_project/
+│
+├── wlan_ai_system.py         # Core logic + CLI
+├── streamlit_app.py          # Dashboard
+├── utils/
+│   ├── pcap_parser.py
+│   ├── log_importer.py
+│   ├── realtime_simulator.py
